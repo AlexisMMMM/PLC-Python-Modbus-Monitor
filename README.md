@@ -140,5 +140,5 @@ This project is **Part 6** of an Industry 4.0 Engineer learning path:
 
 ## 👩‍💻 Author
 
-**Kaori** — Control & Automation Engineer | Industry 4.0  
+**Alexis Medrano** — Control & Automation Engineer | Industry 4.0  
 [github.com/AlexisMMMM](https://github.com/AlexisMMMM)
