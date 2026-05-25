@@ -110,10 +110,10 @@ python monitor.py
 ## 📸 Screenshots
 
 **Full stack running — CODESYS + Factory I/O + Python console**
-![Stack Running](screenshots/stack_running.png)
+![Stack Running](captures/stack_running.jpeg)
 
 **CSV data logged to Excel**
-![CSV Data](screenshots/csv_data_excel.png)
+![CSV Data](captures/csv_data_excel.jpeg)
 
 ---
 
